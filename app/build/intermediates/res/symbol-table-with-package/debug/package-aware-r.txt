@@ -1129,6 +1129,7 @@ drawable whitesmall2
 font futura
 font futurabook
 id ALT
+id APCalendarButton
 id AeriesButton
 id AeriesButton2
 id AesopButton2
@@ -1136,6 +1137,9 @@ id AnimationButton
 id AnimationLayout
 id AnnouncementRequest
 id AnnouncementRequestButton2
+id ApTestingButton
+id ApTestingHeader
+id ApTestingLayout
 id AthleticsButton
 id AwesomeButton
 id BackButton1
@@ -1158,6 +1162,7 @@ id MapButton
 id MapButton2
 id NavianceButton
 id OtherButton
+id ReviewSessionButton
 id SHIFT
 id SYM
 id ScheduleButton
@@ -1478,6 +1483,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_animation_view
+layout activity_ap_testing
 layout activity_contact
 layout activity_counselor
 layout activity_directory_pdf

@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\354d813fe92b0e3a8565cc19c54ce357\design-26.1.0\AndroidManifest.xml:17:1-31:12
 MERGED from [com.airbnb.android:lottie:2.1.2] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\0568d11806727e51bff08beb086643fb\lottie-2.1.2\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\489a73312304b41da7c0221eb033d999\appcompat-v7-26.1.0\AndroidManifest.xml:17:1-31:12
@@ -43,20 +43,20 @@ MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Thund\
 MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\7198ad0e9f915694a31eeaa7beb909cd\firebase-analytics-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\4c161b292911b864cb46f587375b71bc\play-services-tasks-license-11.8.0\AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\87f89b47325dda1595c794ec8e713c3a\firebase-analytics-impl-license-11.8.0\AndroidManifest.xml:2:1-6:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
-INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
 	package
 		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:3:5-40
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-47:12
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:1-48:12
 		INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:2:11-69
@@ -81,7 +81,7 @@ ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\mai
 	android:name
 		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:6:22-77
 application
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:8:5-45:19
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:8:5-46:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\354d813fe92b0e3a8565cc19c54ce357\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\354d813fe92b0e3a8565cc19c54ce357\design-26.1.0\AndroidManifest.xml:25:5-29:19
 MERGED from [com.airbnb.android:lottie:2.1.2] C:\Users\Thund\.gradle\caches\transforms-2\files-2.1\0568d11806727e51bff08beb086643fb\lottie-2.1.2\AndroidManifest.xml:10:5-20
@@ -236,36 +236,42 @@ ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\mai
 		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:38:56-92
 	android:name
 		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:38:19-55
+activity#com.ghsapp.android.ghsapp.APTesting
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:9-83
+	android:screenOrientation
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:45-81
+	android:name
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:19-44
 activity#com.ghsapp.android.ghsapp.SocialMedia
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:9-85
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:9-85
 	android:screenOrientation
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:47-83
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:47-83
 	android:name
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:39:19-46
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:19-46
 activity#com.ghsapp.android.ghsapp.TeacherSearch
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:9-87
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:9-87
 	android:screenOrientation
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:49-85
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:49-85
 	android:name
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:40:19-48
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:19-48
 activity#com.ghsapp.android.ghsapp.TeacherDetails
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:9-88
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:9-88
 	android:screenOrientation
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:50-86
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:50-86
 	android:name
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:41:19-49
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:19-49
 activity#com.ghsapp.android.ghsapp.Directory
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:9-83
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:9-83
 	android:screenOrientation
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:45-81
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:45-81
 	android:name
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:42:19-44
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:19-44
 activity#com.ghsapp.android.ghsapp.Calender
-ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:9-82
+ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:44:9-82
 	android:screenOrientation
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:44-80
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:44:44-80
 	android:name
-		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:43:19-43
+		ADDED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml:44:19-43
 uses-sdk
 INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Thund\AndroidStudioProjects\GHSAppUpdated-sachen\app\src\main\AndroidManifest.xml

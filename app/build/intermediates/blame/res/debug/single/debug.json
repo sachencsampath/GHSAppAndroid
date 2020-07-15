@@ -1156,6 +1156,10 @@
         "source": "C:\\Users\\Thund\\.gradle\\caches\\transforms-2\\files-2.1\\354d813fe92b0e3a8565cc19c54ce357\\design-26.1.0\\res\\color\\design_error.xml"
     },
     {
+        "merged": "C:\\Users\\Thund\\AndroidStudioProjects\\GHSAppUpdated-sachen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ap_testing.xml.flat",
+        "source": "C:\\Users\\Thund\\AndroidStudioProjects\\GHSAppUpdated-sachen\\app\\src\\main\\res\\layout\\activity_ap_testing.xml"
+    },
+    {
         "merged": "C:\\Users\\Thund\\AndroidStudioProjects\\GHSAppUpdated-sachen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notiflogo.png.flat",
         "source": "C:\\Users\\Thund\\AndroidStudioProjects\\GHSAppUpdated-sachen\\app\\src\\main\\res\\drawable\\notiflogo.png"
     },

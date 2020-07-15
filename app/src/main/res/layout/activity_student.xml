@@ -95,7 +95,15 @@
                             android:layout_weight="1"
                             android:backgroundTint="?attr/buttonMain"
                             android:text="Map" />
-
+                        <Button
+                            android:id="@+id/ApTestingButton"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="?attr/buttonMain"
+                            android:text="AP Testing" />
                         <Button
                             android:id="@+id/TeacherSearch"
                             android:layout_width="match_parent"

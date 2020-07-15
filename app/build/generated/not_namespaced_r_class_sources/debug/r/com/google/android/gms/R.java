@@ -12,16 +12,16 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int auto = 0x7f090052;
-        public static final int button = 0x7f090059;
-        public static final int center = 0x7f09005f;
-        public static final int date = 0x7f09006f;
-        public static final int none = 0x7f0900a8;
-        public static final int normal = 0x7f0900a9;
-        public static final int radio = 0x7f0900b7;
-        public static final int text = 0x7f0900ec;
-        public static final int text2 = 0x7f0900ed;
-        public static final int wrap_content = 0x7f090136;
+        public static final int auto = 0x7f090057;
+        public static final int button = 0x7f09005e;
+        public static final int center = 0x7f090064;
+        public static final int date = 0x7f090074;
+        public static final int none = 0x7f0900ad;
+        public static final int normal = 0x7f0900ae;
+        public static final int radio = 0x7f0900bc;
+        public static final int text = 0x7f0900f1;
+        public static final int text2 = 0x7f0900f2;
+        public static final int wrap_content = 0x7f09013b;
     }
     public static final class integer {
         private integer() {}

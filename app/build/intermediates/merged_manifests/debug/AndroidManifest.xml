@@ -67,6 +67,9 @@
             android:name="com.ghsapp.android.ghsapp.TwitterAnnouncements"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.ghsapp.android.ghsapp.APTesting"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.ghsapp.android.ghsapp.SocialMedia"
             android:screenOrientation="portrait" />
         <activity

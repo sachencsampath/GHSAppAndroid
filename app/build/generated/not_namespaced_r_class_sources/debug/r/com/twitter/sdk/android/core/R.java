@@ -39,13 +39,13 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int tw__spinner = 0x7f090117;
-        public static final int tw__web_view = 0x7f090126;
+        public static final int tw__spinner = 0x7f09011c;
+        public static final int tw__web_view = 0x7f09012b;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int tw__activity_oauth = 0x7f0b004f;
+        public static final int tw__activity_oauth = 0x7f0b0050;
     }
     public static final class string {
         private string() {}

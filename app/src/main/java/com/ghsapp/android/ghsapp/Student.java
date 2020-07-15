@@ -17,6 +17,7 @@ public class Student extends AppCompatActivity
     Button Aeries;
     Button AnnouncementRequest;
     Button SocialMedia;
+    Button APTesting;
     Button Calendar;
     Button Schedule;
     Button Map;
@@ -27,6 +28,7 @@ public class Student extends AppCompatActivity
     Button Tutorcom;
     Button StudentStore;
     Button TeacherSearch;
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
@@ -84,6 +86,21 @@ public class Student extends AppCompatActivity
             }
         }));
 
+        //AP Testing
+        APTesting = findViewById(R.id.ApTestingButton);
+        APTesting.setOnClickListener((new View.OnClickListener()
+        {
+            //Implement this andrew
+            //I already created the corresponding files which is the APTesting.class
+            //look at the code for the social media class and see how to open the APTesting.class
+            @Override
+            public void onClick(View view) {
+                //code goes here
+            }
+            //once you have implemented this class use this knowledge to implement turnitin.com and band and pag links
+            //bascially create new buttons in student xml file and java file, if you need help ping on discord, good luck
+        }));
+
         //calendar
         Calendar = findViewById(R.id.CalendarButton);
         Calendar.setOnClickListener((new View.OnClickListener()
@@ -122,7 +139,6 @@ public class Student extends AppCompatActivity
                 startActivity(myIntent);
             }
         }));
-
 
         //classroom
         Classroom = findViewById(R.id.ClassroomButton);

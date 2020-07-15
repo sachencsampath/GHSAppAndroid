@@ -1,4 +1,4 @@
-#Wed Jul 15 05:24:54 PDT 2020
+#Wed Jul 15 15:49:45 PDT 2020
 base.0=C\:\\Users\\Thund\\AndroidStudioProjects\\GHSAppUpdated-sachen\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
