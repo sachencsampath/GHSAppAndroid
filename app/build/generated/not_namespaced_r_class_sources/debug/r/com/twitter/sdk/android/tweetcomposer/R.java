@@ -67,21 +67,21 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int tw__author_avatar = 0x7f09010b;
-        public static final int tw__char_count = 0x7f09010c;
-        public static final int tw__composer_close = 0x7f09010d;
-        public static final int tw__composer_header = 0x7f09010e;
-        public static final int tw__composer_profile_divider = 0x7f09010f;
-        public static final int tw__composer_scroll_view = 0x7f090110;
-        public static final int tw__composer_toolbar = 0x7f090111;
-        public static final int tw__composer_toolbar_divider = 0x7f090112;
-        public static final int tw__composer_view = 0x7f090113;
-        public static final int tw__edit_tweet = 0x7f090116;
-        public static final int tw__image_view = 0x7f090119;
-        public static final int tw__post_tweet = 0x7f09011a;
-        public static final int tw__spinner = 0x7f09011c;
-        public static final int tw__twitter_logo = 0x7f090128;
-        public static final int tw__web_view = 0x7f09012b;
+        public static final int tw__author_avatar = 0x7f09010a;
+        public static final int tw__char_count = 0x7f09010b;
+        public static final int tw__composer_close = 0x7f09010c;
+        public static final int tw__composer_header = 0x7f09010d;
+        public static final int tw__composer_profile_divider = 0x7f09010e;
+        public static final int tw__composer_scroll_view = 0x7f09010f;
+        public static final int tw__composer_toolbar = 0x7f090110;
+        public static final int tw__composer_toolbar_divider = 0x7f090111;
+        public static final int tw__composer_view = 0x7f090112;
+        public static final int tw__edit_tweet = 0x7f090115;
+        public static final int tw__image_view = 0x7f090118;
+        public static final int tw__post_tweet = 0x7f090119;
+        public static final int tw__spinner = 0x7f09011b;
+        public static final int tw__twitter_logo = 0x7f090127;
+        public static final int tw__web_view = 0x7f09012a;
     }
     public static final class layout {
         private layout() {}

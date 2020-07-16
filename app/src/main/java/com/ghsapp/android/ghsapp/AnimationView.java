@@ -6,10 +6,6 @@ import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
-import android.widget.LinearLayout;
-import android.widget.TextView;
 
 import com.airbnb.lottie.LottieAnimationView;
 
@@ -22,9 +18,11 @@ public class AnimationView extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
-        SharedPreferences sharedPref= getSharedPreferences("mypref", 0);
         global=((Global)getApplicationContext());
-        global.set(sharedPref.getInt("Global", 0));
+
+        SharedPreferences prefs = getSharedPreferences("AppPrefs", MODE_PRIVATE);
+        global.set(prefs.getInt("AppTheme", 0));
+
         setTheme(global.getThemes());
         setContentView(R.layout.activity_animation_view);
 

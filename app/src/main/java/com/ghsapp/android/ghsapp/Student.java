@@ -90,15 +90,11 @@ public class Student extends AppCompatActivity
         APTesting = findViewById(R.id.ApTestingButton);
         APTesting.setOnClickListener((new View.OnClickListener()
         {
-            //Implement this andrew
-            //I already created the corresponding files which is the APTesting.class
-            //look at the code for the social media class and see how to open the APTesting.class
             @Override
             public void onClick(View view) {
-                //code goes here
+                Intent myIntent = new Intent(Student.this, APTesting.class);
+                startActivity(myIntent);
             }
-            //once you have implemented this class use this knowledge to implement turnitin.com and band and pag links
-            //bascially create new buttons in student xml file and java file, if you need help ping on discord, good luck
         }));
 
         //calendar
@@ -178,7 +174,7 @@ public class Student extends AppCompatActivity
             public void onClick(View view) {
                 Intent myIntent = new Intent(Student.this, WebsiteView.class);
                 myIntent.putExtra("WEBSITE_NAME", "Naviance");
-                myIntent.putExtra("WEBSITE_URL", "https://connection.naviance.com/family-connection/auth/login/?hsid=glen");
+                myIntent.putExtra("WEBSITE_URL", "https://student.naviance.com/glen");
                 startActivity(myIntent);
             }
         }));

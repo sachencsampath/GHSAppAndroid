@@ -1172,7 +1172,6 @@ id SocialLayout
 id SocialMedia
 id StudentStoreButton
 id StudentsButton
-id TartanDailyButton2
 id TartanDailyHeader
 id TartanDailyLayout
 id TartanEvents

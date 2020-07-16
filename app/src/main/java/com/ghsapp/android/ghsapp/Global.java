@@ -1,7 +1,6 @@
 package com.ghsapp.android.ghsapp;
 
 import android.app.Application;
-import android.content.SharedPreferences;
 
 public  class  Global extends Application {
     private int counter = 0;

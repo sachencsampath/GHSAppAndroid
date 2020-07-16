@@ -49,7 +49,7 @@ public class SocialMedia extends AppCompatActivity
             @Override
             public void onClick(View view) {
                 Intent appIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("instagram://media?id=434784289393782000_15903882"));
-                Intent webIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/glendorahs/"));
+                Intent webIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.instagram.com/explore/locations/1029663048/glendora-high-school/?hl=en"));
                 try {
                     startActivity(appIntent);
                 } catch (ActivityNotFoundException ex) {

@@ -39,8 +39,8 @@ public final class R {
     public static final class id {
         private id() {}
 
-        public static final int tw__spinner = 0x7f09011c;
-        public static final int tw__web_view = 0x7f09012b;
+        public static final int tw__spinner = 0x7f09011b;
+        public static final int tw__web_view = 0x7f09012a;
     }
     public static final class layout {
         private layout() {}
