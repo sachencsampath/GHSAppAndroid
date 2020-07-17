@@ -14,28 +14,27 @@ public  class  Global extends Application {
     }
     public void increase() {
         this.counter++;
-        if(counter >= 4)
+        if(counter >= 5)
         {
             counter = 0;
         }
     }
     public int getThemes()
     {
-        if(counter == 0)
-        {
+        if(counter == 0) {
             return (R.style.red);
         }
-        if(counter == 1)
-        {
+        if(counter == 1) {
             return R.style.black_oled;
         }
-        if(counter == 2)
-        {
+        if(counter == 2) {
             return (R.style.space);
         }
-        if(counter == 3)
-        {
+        if(counter == 3) {
             return (R.style.forest);
+        }
+        if(counter == 4){
+            return (R.style.waves);
         }
 //        if(counter == 4)
 //        {

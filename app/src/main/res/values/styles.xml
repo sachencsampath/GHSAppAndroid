@@ -103,6 +103,30 @@
         <item name="android:windowAnimationStyle">@null</item>
     </style>
 
+    <style name="waves" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name="backColor">@drawable/waves2</item>
+        <item name="buttonColor1">@color/button1forest</item>
+        <item name="buttonColor2">@color/button2forest</item>
+        <item name="buttonColor3">@color/button3forest</item>
+        <item name="buttonColor4">@color/button4forest</item>
+        <item name="buttonColor5">@color/button5forest</item>
+        <item name="buttonMain">@color/button2forest</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:fontFamily">@font/futurabook</item>
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textSize">30sp</item>
+        <item name="logo">@drawable/whitesmall2</item>
+        <item name="bar">@color/button2forest</item>
+        <item name="padding">30dp</item>
+        <item name="popupColorMain">@color/black</item>
+        <item name="popupOutline">@color/white</item>
+        <item name="android:windowDisablePreview">true</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+
+    <!-- Action Themes, not needed currently
     <style name="senior" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="backColor">@color/senLayout</item>
         <item name="buttonColor1">@color/senStudent</item>
@@ -194,6 +218,7 @@
         <item name="popupOutline">@color/fLayout</item>
         <item name="android:windowAnimationStyle">@null</item>
     </style>
+    -->
 
 
 
