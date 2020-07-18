@@ -26,8 +26,10 @@ public class Student extends AppCompatActivity
     Button Athletics;
     Button CollegeBoard;
     Button Tutorcom;
+    Button BandAndPag;
     Button StudentStore;
     Button TeacherSearch;
+    Button Turnitin;
 
     @Override
     protected void onCreate(Bundle savedInstanceState)
@@ -166,6 +168,19 @@ public class Student extends AppCompatActivity
             }
         }));
 
+        //turnitin.com
+        Turnitin = findViewById(R.id.TurnitinButton);
+        Turnitin.setOnClickListener((new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View view) {
+                Intent myIntent = new Intent(Student.this, WebsiteView.class);
+                myIntent.putExtra("WEBSITE_NAME", "turnitin.com");
+                myIntent.putExtra("WEBSITE_URL", "https://www.turnitin.com/login_page.asp?lang=en_us");
+                startActivity(myIntent);
+            }
+        }));
+
         //naviance
         Naviance = findViewById(R.id.NavianceButton);
         Naviance.setOnClickListener((new View.OnClickListener()
@@ -200,6 +215,18 @@ public class Student extends AppCompatActivity
                 Intent myIntent = new Intent(Student.this, WebsiteView.class);
                 myIntent.putExtra("WEBSITE_NAME", "College Board");
                 myIntent.putExtra("WEBSITE_URL", "https://www.collegeboard.org/");
+                startActivity(myIntent);
+            }
+        }));
+
+        BandAndPag = findViewById(R.id.BandAndPagButton);
+        BandAndPag.setOnClickListener((new View.OnClickListener()
+        {
+            @Override
+            public void onClick(View view) {
+                Intent myIntent = new Intent(Student.this, WebsiteView.class);
+                myIntent.putExtra("WEBSITE_NAME", "Band & Pag.");
+                myIntent.putExtra("WEBSITE_URL", "https://www.leaguelineup.com/calendar.asp?url=ghstartanband");
                 startActivity(myIntent);
             }
         }));

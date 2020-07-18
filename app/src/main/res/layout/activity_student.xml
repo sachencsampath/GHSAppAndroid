@@ -113,6 +113,17 @@
                             android:layout_weight="1"
                             android:backgroundTint="?attr/buttonMain"
                             android:text="Find My Teacher" />
+
+                        <Button
+                            android:id="@+id/TurnitinButton"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="?attr/buttonMain"
+                            android:text="turnitin.com" />
+
                         <Button
                             android:id="@+id/SocialMedia"
                             android:layout_width="match_parent"
@@ -131,11 +142,6 @@
                             android:layout_weight="1"
                             android:backgroundTint="?attr/buttonMain"
                             android:text="Announcement Request" />
-
-
-
-
-
 
                         <Button
                             android:id="@+id/ClassroomButton"
@@ -174,6 +180,15 @@
                             android:layout_weight="1"
                             android:backgroundTint="?attr/buttonMain"
                             android:text="CollegeBoard" />
+                        <Button
+                            android:id="@+id/BandAndPagButton"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:layout_marginTop="0dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="?attr/buttonMain"
+                            android:text="Band and Pag." />
                         <Button
                             android:id="@+id/TutorcomButton"
                             android:layout_width="match_parent"
